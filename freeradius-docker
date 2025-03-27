@@ -1,0 +1,4 @@
+mkdir -p config/certs
+mkdir -p config/mods-enabled
+mkdir -p config/sites-enabled
+
